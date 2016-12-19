@@ -14,19 +14,29 @@ DEPENDENCIES:
   - AcknowList (~> 1.2)
   - DynamicColor (~> 3.1.0)
   - RealmSwift (~> 2.1.1)
-  - Timepiece (~> 1.0.1)
+  - Timepiece (from `https://github.com/BasThomas/Timepiece.git`, branch `specify-swift-version`)
   - Toucan (~> 0.6.0)
   - XLPagerTabStrip (~> 6.0.0)
+
+EXTERNAL SOURCES:
+  Timepiece:
+    :branch: specify-swift-version
+    :git: https://github.com/BasThomas/Timepiece.git
+
+CHECKOUT OPTIONS:
+  Timepiece:
+    :commit: 2d8e3bb521d03ca252bd3a1f5ab8d43954d3dfb4
+    :git: https://github.com/BasThomas/Timepiece.git
 
 SPEC CHECKSUMS:
   AcknowList: 18ccee4d933a153622416cce2d36e6864ec147ea
   DynamicColor: 4dec283a881f7f9d9f3bc88fb5f306724242575f
   Realm: a55959c0b171a5fe5267406d17f314fec3cefaae
   RealmSwift: 749fd955bf8d6471c21d218b9389a47aaeccfe3f
-  Timepiece: 59cdc48089645cce07803c15116293b346ca457d
+  Timepiece: cbb612b3846f03b472d6f2097ac5644199a7213f
   Toucan: 47485bbc9cb4541ef6318d6886103e6eaf16e919
   XLPagerTabStrip: c46e802a8dcac29edbcea573de8fe920e052455b
 
-PODFILE CHECKSUM: 0b529c8b61e53939f7e6c4a0836b37a96fecb7da
+PODFILE CHECKSUM: e827e63b07d78932a8dea4c8a0d007bf3f5372b5
 
 COCOAPODS: 1.2.0.beta.1

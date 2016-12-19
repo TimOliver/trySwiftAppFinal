@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4903C9821E08603C00AA4732 /* Realm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA73B4FC1DF85AB600E18FED /* Realm.framework */; };
+		4903C9831E08604500AA4732 /* RealmSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA73B4FD1DF85AB600E18FED /* RealmSwift.framework */; };
 		FA44F8C71D96EA7000BE6C53 /* Conference.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA44F8BE1D96EA7000BE6C53 /* Conference.swift */; };
 		FA44F8C91D96EA7000BE6C53 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA44F8C01D96EA7000BE6C53 /* Event.swift */; };
 		FA44F8CA1D96EA7000BE6C53 /* Organizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA44F8C11D96EA7000BE6C53 /* Organizer.swift */; };
@@ -18,8 +20,6 @@
 		FA5C9E161D967BB30080B608 /* TrySwiftData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA5C9E0C1D967BB30080B608 /* TrySwiftData.framework */; };
 		FA5C9E1B1D967BB30080B608 /* TrySwiftDataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5C9E1A1D967BB30080B608 /* TrySwiftDataTests.swift */; };
 		FA5C9E1D1D967BB30080B608 /* TrySwiftData.h in Headers */ = {isa = PBXBuildFile; fileRef = FA5C9E0F1D967BB30080B608 /* TrySwiftData.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FA73B4FE1DF85AB600E18FED /* Realm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA73B4FC1DF85AB600E18FED /* Realm.framework */; };
-		FA73B4FF1DF85AB600E18FED /* RealmSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA73B4FD1DF85AB600E18FED /* RealmSwift.framework */; };
 		FAAAF58F1D97B4420074EE84 /* ChangeNotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAAF58E1D97B4420074EE84 /* ChangeNotificationManager.swift */; };
 /* End PBXBuildFile section */
 
@@ -58,8 +58,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA73B4FE1DF85AB600E18FED /* Realm.framework in Frameworks */,
-				FA73B4FF1DF85AB600E18FED /* RealmSwift.framework in Frameworks */,
+				4903C9831E08604500AA4732 /* RealmSwift.framework in Frameworks */,
+				4903C9821E08603C00AA4732 /* Realm.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

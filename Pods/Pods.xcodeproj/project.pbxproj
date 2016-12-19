@@ -31,24 +31,24 @@
 		3815237D0F996C6ABA07E9174BD62960 /* String+Timepiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0556E7B130930784390994C3F12871 /* String+Timepiece.swift */; };
 		3D25637BB459A1729D5686766BBBADAE /* Int+Timepiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F26644DD18747937B9AFD17A76F2B5 /* Int+Timepiece.swift */; };
 		471F513248B2989FB36EC0D56E9CDBBB /* DynamicColor+RGBA.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAC308867CE87728E79C355B37A77E89 /* DynamicColor+RGBA.swift */; };
-		47B8A4940B65A7F785A4FFDDB65BA270 /* Timepiece-watchOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 85B8C7A84355F3AD28C97056A47ADF20 /* Timepiece-watchOS-dummy.m */; };
+		47B8A4940B65A7F785A4FFDDB65BA270 /* Timepiece-watchOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BC8A50A8A0B2937BBF4F8FB83661C3E6 /* Timepiece-watchOS-dummy.m */; };
 		4AA296E8077B9CFD32C43E26353D10AA /* SwipeDirection.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDA50DACC8AA12E88A056805C56DA4C /* SwipeDirection.swift */; };
-		4D3732F924458CE26931CCCAE4EC9B09 /* Timepiece-iOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A352752BBB2DECED177F7C4EB2BE4F4A /* Timepiece-iOS-dummy.m */; };
+		4D3732F924458CE26931CCCAE4EC9B09 /* Timepiece-iOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A5D1C6CA844776C83F6D28B788E799E6 /* Timepiece-iOS-dummy.m */; };
 		4D8111DA8EEE3D0C079239CF6AFEA4CA /* ButtonBarPagerTabStripViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 769DF6BCAAE4DD404DA08116D76C386B /* ButtonBarPagerTabStripViewController.swift */; };
 		4E089724ACBE0C059290385871E3AD80 /* PagerTabStripViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C9E4D2A0698297AD5F5931E6AC8180 /* PagerTabStripViewController.swift */; };
 		51FA048EDAADFC4DF96556761597CDC9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 541A61AF9C1ECF6331A31360330DBEEB /* UIKit.framework */; };
 		542BF6824986529404724DFEE92B65DA /* Date+Timepiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = D26D820B76646B7841E55243699D2E83 /* Date+Timepiece.swift */; };
 		59547F6F675435754E9BEB23F9AC2D6F /* DynamicColor+Mixing.swift in Sources */ = {isa = PBXBuildFile; fileRef = E97347110D010A6F6615E0623A95C1F7 /* DynamicColor+Mixing.swift */; };
 		5BCA985C8E2DB384B810E096E9C130F2 /* Pods-trySwift-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 257EDB6620E4A2AC99C176EE40D0D539 /* Pods-trySwift-dummy.m */; };
-		5FA5AB5F3A9F65E1D5865699A5C6186B /* Timepiece-iOS-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = AB945AAAB96924C0A02607B3E7C1CE81 /* Timepiece-iOS-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5FA5AB5F3A9F65E1D5865699A5C6186B /* Timepiece-iOS-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B46D3152A756FFADC2C0CF60A3BD7A27 /* Timepiece-iOS-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		64E0E1335FAF9B61E3135D5288F1A088 /* XLPagerTabStrip-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 84DE2DF7F6F4B850B5167FAD650B287E /* XLPagerTabStrip-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		66BCC3F1CC504913A73080D44F3C21D1 /* DynamicColor+Lab.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A7F6A4EC9F092DAA04663E4D58E12D /* DynamicColor+Lab.swift */; };
 		6859FC08B103D2A58CF4A006D17CAAFB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D838EF91E8DF0B2D03DF4ED7D616C4CE /* Foundation.framework */; };
 		688D57E2AE6EC8BBF3BD648C340B90DE /* FXPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 741F55CBB9907BAD476AD8D314696138 /* FXPageControl.m */; };
 		691A1DE62C9AF3D8F24D53D3DA8404EA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CF8DF5AB7960DE7DCE3233F996CCE54 /* Foundation.framework */; };
-		6CA3DDEA0A071E9A071228236624B684 /* XLPagerTabStrip.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1781453D6A8D1F1069EF3AADF10375FE /* XLPagerTabStrip.bundle */; };
+		6CA3DDEA0A071E9A071228236624B684 /* XLPagerTabStrip.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C2BA34E0698ADB9B2DF2E4AAB0955C06 /* XLPagerTabStrip.bundle */; };
 		6DDA8408A001E72449F65496EB933C6D /* Toucan-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D149708CC1F08BE8A5A0E761D95BFB7 /* Toucan-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6DEAC0D52D60C8B9BE014EB7CE02EC3A /* Timepiece-watchOS-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D7E9CCA21776F305CB1F955FB5B34ACA /* Timepiece-watchOS-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6DEAC0D52D60C8B9BE014EB7CE02EC3A /* Timepiece-watchOS-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0EE1B93B88C59A182F38A90D8A1D5713 /* Timepiece-watchOS-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		75957667828EA89180858396A55763F4 /* Acknow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB34C82630B18DB5AB7362031EB53EE9 /* Acknow.swift */; };
 		7B4C02C1BDF15186F402B3100517A9E7 /* DynamicColor+Deriving.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73D974889640008019FC2EA544568D27 /* DynamicColor+Deriving.swift */; };
 		7DACCEE1830C33C774FB0C53BC0E4556 /* DynamicColor+XYZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E4201FF9FE054FD67554BF484A229D /* DynamicColor+XYZ.swift */; };
@@ -135,86 +135,86 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		01EDDD6F775D140E77FF4B4C321EE7D3 /* Timepiece-iOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Timepiece-iOS.modulemap"; sourceTree = "<group>"; };
 		03F26644DD18747937B9AFD17A76F2B5 /* Int+Timepiece.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Int+Timepiece.swift"; path = "Sources/Int+Timepiece.swift"; sourceTree = "<group>"; };
 		09BA864C03A96EE6C97EEA50290EA2F5 /* AcknowList.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = AcknowList.bundle; path = Resources/AcknowList.bundle; sourceTree = "<group>"; };
-		1781453D6A8D1F1069EF3AADF10375FE /* XLPagerTabStrip.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = XLPagerTabStrip.bundle; path = XLPagerTabStrip.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		0EE1B93B88C59A182F38A90D8A1D5713 /* Timepiece-watchOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Timepiece-watchOS-umbrella.h"; path = "../Timepiece-watchOS/Timepiece-watchOS-umbrella.h"; sourceTree = "<group>"; };
+		14B10F3CE0ADB351390EDC55DCA0F6F2 /* DynamicColor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DynamicColor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		188B1521DEE18208F147FC2DF6A20D0A /* Pods-trySwift-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-trySwift-acknowledgements.plist"; sourceTree = "<group>"; };
+		190715082406647B6971AF108C8DD2A0 /* Pods_trySwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_trySwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AA1BB2D01838422328DADAE9E429C17 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D149708CC1F08BE8A5A0E761D95BFB7 /* Toucan-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Toucan-umbrella.h"; sourceTree = "<group>"; };
-		20C70C1BCBA44C3A7CA99A3591159E88 /* Toucan.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Toucan.framework; path = Toucan.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2472B22BCF93E3EEBF566308F05BB945 /* Pods-trySwift-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-trySwift-acknowledgements.markdown"; sourceTree = "<group>"; };
 		257EDB6620E4A2AC99C176EE40D0D539 /* Pods-trySwift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-trySwift-dummy.m"; sourceTree = "<group>"; };
 		265EEB4FDB907CF2B9F49F74983735A9 /* DynamicColor+HSL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DynamicColor+HSL.swift"; path = "Sources/DynamicColor+HSL.swift"; sourceTree = "<group>"; };
-		29296833B3C1DD699FFEE0E289C5D569 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../Timepiece-watchOS/Info.plist"; sourceTree = "<group>"; };
 		2AA5A2DA333933E553DAF1E3B854E8F5 /* PagerTabStripBehaviour.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PagerTabStripBehaviour.swift; path = Sources/PagerTabStripBehaviour.swift; sourceTree = "<group>"; };
 		2F82C463C4C6BDAA55655E3955DA68E4 /* DynamicColor-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DynamicColor-prefix.pch"; sourceTree = "<group>"; };
-		30185E2C39789E3210542C08D2ABD183 /* Timepiece-iOS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Timepiece-iOS.xcconfig"; sourceTree = "<group>"; };
-		320C9D5DCF4AC84BB64FFBEE2EF555D4 /* DynamicColor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DynamicColor.framework; path = DynamicColor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		30DA30FDE2AEAF226BDCB90A8FEEA906 /* Timepiece.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Timepiece.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		32F95F5D8B22EA638D8F1EBDCEE7FA00 /* Pods-try Extension-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-try Extension-acknowledgements.plist"; sourceTree = "<group>"; };
+		34782B2648BD4E9B484B0B05DA6BEB18 /* Timepiece-iOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Timepiece-iOS-prefix.pch"; sourceTree = "<group>"; };
 		360752D9B4B8D1130A404934464182F4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3B997DB0D76F9E58F190FC77A5E8D45E /* XLPagerTabStrip.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XLPagerTabStrip.xcconfig; sourceTree = "<group>"; };
-		3D9C5668C2E83D7D8ECCD36010BA9C89 /* Toucan.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Toucan.modulemap; sourceTree = "<group>"; };
+		3D745C504BA2CA05D983E3D03D1EC102 /* XLPagerTabStrip.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XLPagerTabStrip.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D9C5668C2E83D7D8ECCD36010BA9C89 /* Toucan.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Toucan.modulemap; sourceTree = "<group>"; };
 		3ED34C99C4839474861A77020FF57CC5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		408380C02B773B436218522CCFC38A9F /* Pods-try Extension-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-try Extension-umbrella.h"; sourceTree = "<group>"; };
-		41062616CECA40FE2CB541D5AB1D5E02 /* XLPagerTabStrip.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XLPagerTabStrip.framework; path = XLPagerTabStrip.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		420A7239545B6594E053BCB33967B5E3 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		429B58384EDFB74B23774A4B7D9ADEEF /* Pods-try Extension.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-try Extension.debug.xcconfig"; sourceTree = "<group>"; };
-		44454DB971F5C4694C6FEC0F572DFE98 /* Pods_trySwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_trySwift.framework; path = "Pods-trySwift.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		44BB03B4C72474D86F7ACAA7086492B3 /* Pods-trySwift-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-trySwift-frameworks.sh"; sourceTree = "<group>"; };
 		451AFBDB5AAAE00C981C434F38930EFA /* AcknowLocalization.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AcknowLocalization.swift; path = Source/AcknowLocalization.swift; sourceTree = "<group>"; };
 		454A8345C0F149861C3C917223E9BB09 /* AcknowViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AcknowViewController.swift; path = Source/AcknowViewController.swift; sourceTree = "<group>"; };
 		45777154B60B6C5CE786F77AEFF7090A /* Pods-trySwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-trySwift-umbrella.h"; sourceTree = "<group>"; };
+		462DBDE8D0CCEA627D07C9D0AC396158 /* Timepiece-watchOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; name = "Timepiece-watchOS.modulemap"; path = "../Timepiece-watchOS/Timepiece-watchOS.modulemap"; sourceTree = "<group>"; };
+		484A0FCEB1AA30CD09A1B1E5B9D28714 /* AcknowList.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AcknowList.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B1C3B2BB58059653B8586B6944921CC /* BarView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BarView.swift; path = Sources/BarView.swift; sourceTree = "<group>"; };
 		4C8329BD0C64522BFD4CD9647133C928 /* ButtonCell.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; name = ButtonCell.xib; path = Sources/ButtonCell.xib; sourceTree = "<group>"; };
+		4DAED58F0DFDD0BB962E5E00676250C5 /* Toucan.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Toucan.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DC22128FAC9BDE005D61448D892C28D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		53B768FDCCD428FE80E407F6CE82620A /* Pods-trySwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-trySwift.release.xcconfig"; sourceTree = "<group>"; };
 		541A61AF9C1ECF6331A31360330DBEEB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		5D5C8796B0AD794FC95E923F3EF67EF0 /* PagerTabStripError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PagerTabStripError.swift; path = Sources/PagerTabStripError.swift; sourceTree = "<group>"; };
-		61C3FAC6494D05F84798F86648B0C6F5 /* AcknowList.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = AcknowList.modulemap; sourceTree = "<group>"; };
+		61C3FAC6494D05F84798F86648B0C6F5 /* AcknowList.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = AcknowList.modulemap; sourceTree = "<group>"; };
 		61EA65E67DB4A7B6A7F87833441D9D7E /* DynamicGradient.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DynamicGradient.swift; path = Sources/DynamicGradient.swift; sourceTree = "<group>"; };
+		63854E26C5E908FF841B998A6B170C73 /* Timepiece-watchOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Timepiece-watchOS-prefix.pch"; path = "../Timepiece-watchOS/Timepiece-watchOS-prefix.pch"; sourceTree = "<group>"; };
 		6460E7FF7D420CB70B5D49B82E9AFBC4 /* Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Utils.swift; path = Sources/Utils.swift; sourceTree = "<group>"; };
+		66B8926B1366C04963F622BF68E3A571 /* Pods_try_Extension.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_try_Extension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		66DC7AAE1C4E90952F6B2B1909B98189 /* DynamicColor+HSB.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DynamicColor+HSB.swift"; path = "Sources/DynamicColor+HSB.swift"; sourceTree = "<group>"; };
-		6A527D27075AEE1AB3DB1DC027877108 /* Timepiece-watchOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Timepiece-watchOS-prefix.pch"; path = "../Timepiece-watchOS/Timepiece-watchOS-prefix.pch"; sourceTree = "<group>"; };
 		6B2E960C513FE957F0F43C9236DA9846 /* Toucan.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Toucan.swift; path = Source/Toucan.swift; sourceTree = "<group>"; };
 		6FF9A97E44974C8FC6D9259627E50B14 /* Pods-try Extension-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-try Extension-dummy.m"; sourceTree = "<group>"; };
-		70920F046624BD68C7399A11C31C6425 /* Timepiece-iOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Timepiece-iOS.modulemap"; sourceTree = "<group>"; };
 		71E4201FF9FE054FD67554BF484A229D /* DynamicColor+XYZ.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DynamicColor+XYZ.swift"; path = "Sources/DynamicColor+XYZ.swift"; sourceTree = "<group>"; };
-		732A36BADCAA1FE5E94348ACA8619D95 /* Pods_try_Extension.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_try_Extension.framework; path = "Pods-try Extension.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73D974889640008019FC2EA544568D27 /* DynamicColor+Deriving.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DynamicColor+Deriving.swift"; path = "Sources/DynamicColor+Deriving.swift"; sourceTree = "<group>"; };
 		741F55CBB9907BAD476AD8D314696138 /* FXPageControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FXPageControl.m; path = Sources/FXPageControl.m; sourceTree = "<group>"; };
+		75F7D73E289811CFC4D80CAF0890A6DC /* Timepiece-watchOS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Timepiece-watchOS.xcconfig"; path = "../Timepiece-watchOS/Timepiece-watchOS.xcconfig"; sourceTree = "<group>"; };
 		769DF6BCAAE4DD404DA08116D76C386B /* ButtonBarPagerTabStripViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ButtonBarPagerTabStripViewController.swift; path = Sources/ButtonBarPagerTabStripViewController.swift; sourceTree = "<group>"; };
 		7E7473FCBACD6247F8D46A6553207279 /* Toucan.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Toucan.xcconfig; sourceTree = "<group>"; };
 		80CD9BC076E2AC441DCE976DBFC613DC /* Array.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Array.swift; path = Sources/Array.swift; sourceTree = "<group>"; };
 		8134EB1E3DAD50E74FBDDA3B22B641A2 /* Toucan-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Toucan-dummy.m"; sourceTree = "<group>"; };
-		8184C6B2A3CF7F88BCC80D26AC19F2E9 /* Pods-try Extension.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-try Extension.modulemap"; sourceTree = "<group>"; };
+		8184C6B2A3CF7F88BCC80D26AC19F2E9 /* Pods-try Extension.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-try Extension.modulemap"; sourceTree = "<group>"; };
 		840D4EA9F1444CBBE80EB0E96B84CF3B /* AcknowList-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AcknowList-dummy.m"; sourceTree = "<group>"; };
 		84DE2DF7F6F4B850B5167FAD650B287E /* XLPagerTabStrip-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XLPagerTabStrip-umbrella.h"; sourceTree = "<group>"; };
-		85B8C7A84355F3AD28C97056A47ADF20 /* Timepiece-watchOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Timepiece-watchOS-dummy.m"; path = "../Timepiece-watchOS/Timepiece-watchOS-dummy.m"; sourceTree = "<group>"; };
 		8874896D42CA6EAEC3B2C80719F4DE0F /* Toucan-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Toucan-prefix.pch"; sourceTree = "<group>"; };
-		8C465AD13CA6CAC449F0371E745352FC /* AcknowList.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AcknowList.framework; path = AcknowList.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8D04DDDB050D44F6C2F84219F7518F95 /* Timepiece-watchOS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Timepiece-watchOS.xcconfig"; path = "../Timepiece-watchOS/Timepiece-watchOS.xcconfig"; sourceTree = "<group>"; };
 		939E03B20B9807D352E437FB60AF6810 /* SegmentedPagerTabStripViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SegmentedPagerTabStripViewController.swift; path = Sources/SegmentedPagerTabStripViewController.swift; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		97C201A07128C08BAF94CF0C6CE40430 /* XLPagerTabStrip-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XLPagerTabStrip-prefix.pch"; sourceTree = "<group>"; };
 		99A96874D5392F561672B311CD40BCEF /* DynamicColor-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DynamicColor-umbrella.h"; sourceTree = "<group>"; };
 		9BDC8444CD543DF14CBF704BAE9C9236 /* ResourceBundle-XLPagerTabStrip-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-XLPagerTabStrip-Info.plist"; sourceTree = "<group>"; };
 		9CF8DF5AB7960DE7DCE3233F996CCE54 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS3.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		9DE5B937A7FFA5C68D52AA8C67BC45B8 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9EDC33EB6C25B19D28CFE3BB19E0A6DC /* Timepiece-iOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Timepiece-iOS-prefix.pch"; sourceTree = "<group>"; };
 		9F6877A2BF6806C11E597A021A3D191E /* Pods-try Extension-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-try Extension-resources.sh"; sourceTree = "<group>"; };
 		A16939BC041BB4C3764A1EFE097AE8C7 /* AcknowListViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AcknowListViewController.swift; path = Source/AcknowListViewController.swift; sourceTree = "<group>"; };
-		A352752BBB2DECED177F7C4EB2BE4F4A /* Timepiece-iOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Timepiece-iOS-dummy.m"; sourceTree = "<group>"; };
 		A3C92A866278975D41EFAA6CDFBFDD92 /* HSL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HSL.swift; path = Sources/HSL.swift; sourceTree = "<group>"; };
 		A498D694EBF86B6942DAFC3D55634DB5 /* Pods-trySwift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-trySwift.debug.xcconfig"; sourceTree = "<group>"; };
+		A5D1C6CA844776C83F6D28B788E799E6 /* Timepiece-iOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Timepiece-iOS-dummy.m"; sourceTree = "<group>"; };
 		A6A7F6A4EC9F092DAA04663E4D58E12D /* DynamicColor+Lab.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DynamicColor+Lab.swift"; path = "Sources/DynamicColor+Lab.swift"; sourceTree = "<group>"; };
 		A95257E8D1A8BEECB7C027A020D99E7E /* Pods-try Extension.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-try Extension.release.xcconfig"; sourceTree = "<group>"; };
 		AAC308867CE87728E79C355B37A77E89 /* DynamicColor+RGBA.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DynamicColor+RGBA.swift"; path = "Sources/DynamicColor+RGBA.swift"; sourceTree = "<group>"; };
-		AB945AAAB96924C0A02607B3E7C1CE81 /* Timepiece-iOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Timepiece-iOS-umbrella.h"; sourceTree = "<group>"; };
-		AD39502C2484AF1B0B2237B6BE9913D7 /* Timepiece.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Timepiece.framework; path = "Timepiece-iOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE579B56EF72FB47E5C277A44FA68D50 /* DynamicColor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DynamicColor.swift; path = Sources/DynamicColor.swift; sourceTree = "<group>"; };
 		B34C62E53280EE64473AA57A8A54BDBE /* TwitterPagerTabStripViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TwitterPagerTabStripViewController.swift; path = Sources/TwitterPagerTabStripViewController.swift; sourceTree = "<group>"; };
 		B41A12B70648E21BDFB6CD2BAF61E8F9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B46D3152A756FFADC2C0CF60A3BD7A27 /* Timepiece-iOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Timepiece-iOS-umbrella.h"; sourceTree = "<group>"; };
 		BB34C82630B18DB5AB7362031EB53EE9 /* Acknow.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Acknow.swift; path = Source/Acknow.swift; sourceTree = "<group>"; };
+		BC8A50A8A0B2937BBF4F8FB83661C3E6 /* Timepiece-watchOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Timepiece-watchOS-dummy.m"; path = "../Timepiece-watchOS/Timepiece-watchOS-dummy.m"; sourceTree = "<group>"; };
+		C2BA34E0698ADB9B2DF2E4AAB0955C06 /* XLPagerTabStrip.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XLPagerTabStrip.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		C2CD5DD63536F29855471AA61F52A63A /* Timepiece-iOS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Timepiece-iOS.xcconfig"; sourceTree = "<group>"; };
 		C3C9E4D2A0698297AD5F5931E6AC8180 /* PagerTabStripViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PagerTabStripViewController.swift; path = Sources/PagerTabStripViewController.swift; sourceTree = "<group>"; };
 		C45F3B034106C245682153A6BDEE0388 /* Pods-try Extension-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-try Extension-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C6BF9587635FB82643C6725A618A4454 /* AcknowList.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AcknowList.xcconfig; sourceTree = "<group>"; };
@@ -222,8 +222,9 @@
 		C8D2C909F3C73474596CD2F75EEAF054 /* DateComponents+Timepiece.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DateComponents+Timepiece.swift"; path = "Sources/DateComponents+Timepiece.swift"; sourceTree = "<group>"; };
 		CB641CE26EA2E39FCB8A75CC7F87D8C8 /* AcknowList-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AcknowList-umbrella.h"; sourceTree = "<group>"; };
 		D26D820B76646B7841E55243699D2E83 /* Date+Timepiece.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Date+Timepiece.swift"; path = "Sources/Date+Timepiece.swift"; sourceTree = "<group>"; };
+		D2862C43A1DE1BFE42BAB1A7178776F5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3B68F6426F4C73CB11FD1BE9DF2680E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../Timepiece-watchOS/Info.plist"; sourceTree = "<group>"; };
 		D75CB4572DFBB91AB37EE2E6F2642B86 /* BarPagerTabStripViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BarPagerTabStripViewController.swift; path = Sources/BarPagerTabStripViewController.swift; sourceTree = "<group>"; };
-		D7E9CCA21776F305CB1F955FB5B34ACA /* Timepiece-watchOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Timepiece-watchOS-umbrella.h"; path = "../Timepiece-watchOS/Timepiece-watchOS-umbrella.h"; sourceTree = "<group>"; };
 		D838EF91E8DF0B2D03DF4ED7D616C4CE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		DBAA40589A6B5670862684736BC55204 /* DynamicColor-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DynamicColor-dummy.m"; sourceTree = "<group>"; };
 		DCDFB52854AC26D25F1B800A768769E5 /* BaseButtonBarPagerTabStripViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BaseButtonBarPagerTabStripViewController.swift; path = Sources/BaseButtonBarPagerTabStripViewController.swift; sourceTree = "<group>"; };
@@ -231,19 +232,18 @@
 		DF3675A0CE5F25B4311BCE178E3B29CD /* Pods-try Extension-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-try Extension-frameworks.sh"; sourceTree = "<group>"; };
 		E1F21472B39155301ACB69C34E8EBA08 /* AcknowParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AcknowParser.swift; path = Source/AcknowParser.swift; sourceTree = "<group>"; };
 		E2114C364787AE19BD4B236E7FB130FE /* XLPagerTabStrip-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XLPagerTabStrip-dummy.m"; sourceTree = "<group>"; };
-		E267FA62C2273635B5AFC989C840D5D3 /* Timepiece-watchOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; name = "Timepiece-watchOS.modulemap"; path = "../Timepiece-watchOS/Timepiece-watchOS.modulemap"; sourceTree = "<group>"; };
-		E43FD46727726C537ABB51DFABFD3EAC /* Pods-trySwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-trySwift.modulemap"; sourceTree = "<group>"; };
+		E43FD46727726C537ABB51DFABFD3EAC /* Pods-trySwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-trySwift.modulemap"; sourceTree = "<group>"; };
 		E97347110D010A6F6615E0623A95C1F7 /* DynamicColor+Mixing.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DynamicColor+Mixing.swift"; path = "Sources/DynamicColor+Mixing.swift"; sourceTree = "<group>"; };
 		EA26D3737868C2B273B307BBBEEFBB1C /* IndicatorInfo.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IndicatorInfo.swift; path = Sources/IndicatorInfo.swift; sourceTree = "<group>"; };
-		ED3B9AABF37EA95F2D243786B534888B /* DynamicColor.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = DynamicColor.modulemap; sourceTree = "<group>"; };
+		EB6A865B77890A66F51D0B7BA1B08C97 /* Timepiece.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Timepiece.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED3B9AABF37EA95F2D243786B534888B /* DynamicColor.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = DynamicColor.modulemap; sourceTree = "<group>"; };
 		EE4114DFD448B97F947F13A7730BB4E2 /* DynamicColor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DynamicColor.xcconfig; sourceTree = "<group>"; };
 		EFA004F52656FBDB30D6039053059BB3 /* Pods-trySwift-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-trySwift-resources.sh"; sourceTree = "<group>"; };
-		F9A7C34A24711E2840A52D04A5B8A3AF /* Timepiece.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Timepiece.framework; path = "Timepiece-watchOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA68CFED99E7B1F304C933BC979217F7 /* AcknowList-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AcknowList-prefix.pch"; sourceTree = "<group>"; };
 		FBDA50DACC8AA12E88A056805C56DA4C /* SwipeDirection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwipeDirection.swift; path = Sources/SwipeDirection.swift; sourceTree = "<group>"; };
 		FC43A720D92BDCBC9EB4221FB212FA49 /* FXPageControl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FXPageControl.h; path = Sources/FXPageControl.h; sourceTree = "<group>"; };
 		FD0556E7B130930784390994C3F12871 /* String+Timepiece.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "String+Timepiece.swift"; path = "Sources/String+Timepiece.swift"; sourceTree = "<group>"; };
-		FD42B489A866FD6C0A2A8C97E8B287F6 /* XLPagerTabStrip.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = XLPagerTabStrip.modulemap; sourceTree = "<group>"; };
+		FD42B489A866FD6C0A2A8C97E8B287F6 /* XLPagerTabStrip.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = XLPagerTabStrip.modulemap; sourceTree = "<group>"; };
 		FE735B5A64DCC2236100451CE68C8F81 /* ButtonBarViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ButtonBarViewCell.swift; path = Sources/ButtonBarViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -340,7 +340,6 @@
 				6B2E960C513FE957F0F43C9236DA9846 /* Toucan.swift */,
 				87D7D2E0878010C021730005FE88036B /* Support Files */,
 			);
-			name = Toucan;
 			path = Toucan;
 			sourceTree = "<group>";
 		};
@@ -351,9 +350,8 @@
 				C8D2C909F3C73474596CD2F75EEAF054 /* DateComponents+Timepiece.swift */,
 				03F26644DD18747937B9AFD17A76F2B5 /* Int+Timepiece.swift */,
 				FD0556E7B130930784390994C3F12871 /* String+Timepiece.swift */,
-				D9D106DA497A2343DE0A851A9D26343F /* Support Files */,
+				43AF525CAE08BE5D559647578224D5DB /* Support Files */,
 			);
-			name = Timepiece;
 			path = Timepiece;
 			sourceTree = "<group>";
 		};
@@ -361,7 +359,6 @@
 			isa = PBXGroup;
 			children = (
 			);
-			name = RealmSwift;
 			path = RealmSwift;
 			sourceTree = "<group>";
 		};
@@ -433,24 +430,27 @@
 				6460E7FF7D420CB70B5D49B82E9AFBC4 /* Utils.swift */,
 				3B82B3879238994D304DAE281D07EF9D /* Support Files */,
 			);
-			name = DynamicColor;
 			path = DynamicColor;
 			sourceTree = "<group>";
 		};
-		4AC5C5DD674D14B36632F70D7973BD88 /* Products */ = {
+		43AF525CAE08BE5D559647578224D5DB /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				8C465AD13CA6CAC449F0371E745352FC /* AcknowList.framework */,
-				320C9D5DCF4AC84BB64FFBEE2EF555D4 /* DynamicColor.framework */,
-				732A36BADCAA1FE5E94348ACA8619D95 /* Pods_try_Extension.framework */,
-				44454DB971F5C4694C6FEC0F572DFE98 /* Pods_trySwift.framework */,
-				F9A7C34A24711E2840A52D04A5B8A3AF /* Timepiece.framework */,
-				AD39502C2484AF1B0B2237B6BE9913D7 /* Timepiece.framework */,
-				20C70C1BCBA44C3A7CA99A3591159E88 /* Toucan.framework */,
-				1781453D6A8D1F1069EF3AADF10375FE /* XLPagerTabStrip.bundle */,
-				41062616CECA40FE2CB541D5AB1D5E02 /* XLPagerTabStrip.framework */,
+				D3B68F6426F4C73CB11FD1BE9DF2680E /* Info.plist */,
+				D2862C43A1DE1BFE42BAB1A7178776F5 /* Info.plist */,
+				01EDDD6F775D140E77FF4B4C321EE7D3 /* Timepiece-iOS.modulemap */,
+				C2CD5DD63536F29855471AA61F52A63A /* Timepiece-iOS.xcconfig */,
+				A5D1C6CA844776C83F6D28B788E799E6 /* Timepiece-iOS-dummy.m */,
+				34782B2648BD4E9B484B0B05DA6BEB18 /* Timepiece-iOS-prefix.pch */,
+				B46D3152A756FFADC2C0CF60A3BD7A27 /* Timepiece-iOS-umbrella.h */,
+				462DBDE8D0CCEA627D07C9D0AC396158 /* Timepiece-watchOS.modulemap */,
+				75F7D73E289811CFC4D80CAF0890A6DC /* Timepiece-watchOS.xcconfig */,
+				BC8A50A8A0B2937BBF4F8FB83661C3E6 /* Timepiece-watchOS-dummy.m */,
+				63854E26C5E908FF841B998A6B170C73 /* Timepiece-watchOS-prefix.pch */,
+				0EE1B93B88C59A182F38A90D8A1D5713 /* Timepiece-watchOS-umbrella.h */,
 			);
-			name = Products;
+			name = "Support Files";
+			path = "../Target Support Files/Timepiece-iOS";
 			sourceTree = "<group>";
 		};
 		4FDE234BA644FE9B09C05DC456F1ED8A /* AcknowList */ = {
@@ -464,7 +464,6 @@
 				382D9451C4B894573CD53696A7F77851 /* Resources */,
 				3DD7326EA313E1AF4338424E4A40F803 /* Support Files */,
 			);
-			name = AcknowList;
 			path = AcknowList;
 			sourceTree = "<group>";
 		};
@@ -490,7 +489,6 @@
 			isa = PBXGroup;
 			children = (
 			);
-			name = Realm;
 			path = Realm;
 			sourceTree = "<group>";
 		};
@@ -516,8 +514,23 @@
 				E64A2A3072C0BC470645370330B79533 /* Resources */,
 				B6ADB439026635EBEB19E7C02C7D76EA /* Support Files */,
 			);
-			name = XLPagerTabStrip;
 			path = XLPagerTabStrip;
+			sourceTree = "<group>";
+		};
+		7CE564EBDA65EC0780D7D393F7B9CAD3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				484A0FCEB1AA30CD09A1B1E5B9D28714 /* AcknowList.framework */,
+				14B10F3CE0ADB351390EDC55DCA0F6F2 /* DynamicColor.framework */,
+				66B8926B1366C04963F622BF68E3A571 /* Pods_try_Extension.framework */,
+				190715082406647B6971AF108C8DD2A0 /* Pods_trySwift.framework */,
+				EB6A865B77890A66F51D0B7BA1B08C97 /* Timepiece.framework */,
+				30DA30FDE2AEAF226BDCB90A8FEEA906 /* Timepiece.framework */,
+				4DAED58F0DFDD0BB962E5E00676250C5 /* Toucan.framework */,
+				C2BA34E0698ADB9B2DF2E4AAB0955C06 /* XLPagerTabStrip.bundle */,
+				3D745C504BA2CA05D983E3D03D1EC102 /* XLPagerTabStrip.framework */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -526,7 +539,7 @@
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				8B6D968432DA454CBE7BE3761821A977 /* Frameworks */,
 				36792CB65EE9211AC75F3D82354B4767 /* Pods */,
-				4AC5C5DD674D14B36632F70D7973BD88 /* Products */,
+				7CE564EBDA65EC0780D7D393F7B9CAD3 /* Products */,
 				0D5C3B2E4DFE0190BF4CFA441C4D9AEC /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -585,26 +598,6 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/XLPagerTabStrip";
-			sourceTree = "<group>";
-		};
-		D9D106DA497A2343DE0A851A9D26343F /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				420A7239545B6594E053BCB33967B5E3 /* Info.plist */,
-				29296833B3C1DD699FFEE0E289C5D569 /* Info.plist */,
-				70920F046624BD68C7399A11C31C6425 /* Timepiece-iOS.modulemap */,
-				30185E2C39789E3210542C08D2ABD183 /* Timepiece-iOS.xcconfig */,
-				A352752BBB2DECED177F7C4EB2BE4F4A /* Timepiece-iOS-dummy.m */,
-				9EDC33EB6C25B19D28CFE3BB19E0A6DC /* Timepiece-iOS-prefix.pch */,
-				AB945AAAB96924C0A02607B3E7C1CE81 /* Timepiece-iOS-umbrella.h */,
-				E267FA62C2273635B5AFC989C840D5D3 /* Timepiece-watchOS.modulemap */,
-				8D04DDDB050D44F6C2F84219F7518F95 /* Timepiece-watchOS.xcconfig */,
-				85B8C7A84355F3AD28C97056A47ADF20 /* Timepiece-watchOS-dummy.m */,
-				6A527D27075AEE1AB3DB1DC027877108 /* Timepiece-watchOS-prefix.pch */,
-				D7E9CCA21776F305CB1F955FB5B34ACA /* Timepiece-watchOS-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/Timepiece-iOS";
 			sourceTree = "<group>";
 		};
 		E64A2A3072C0BC470645370330B79533 /* Resources */ = {
@@ -718,7 +711,7 @@
 			);
 			name = XLPagerTabStrip;
 			productName = XLPagerTabStrip;
-			productReference = 41062616CECA40FE2CB541D5AB1D5E02 /* XLPagerTabStrip.framework */;
+			productReference = 3D745C504BA2CA05D983E3D03D1EC102 /* XLPagerTabStrip.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		22FD7DC5D169BA4D5F03AD944B302248 /* Toucan */ = {
@@ -735,7 +728,7 @@
 			);
 			name = Toucan;
 			productName = Toucan;
-			productReference = 20C70C1BCBA44C3A7CA99A3591159E88 /* Toucan.framework */;
+			productReference = 4DAED58F0DFDD0BB962E5E00676250C5 /* Toucan.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		29BB52F0C6D0A76256228129EC6A9703 /* Pods-trySwift */ = {
@@ -757,7 +750,7 @@
 			);
 			name = "Pods-trySwift";
 			productName = "Pods-trySwift";
-			productReference = 44454DB971F5C4694C6FEC0F572DFE98 /* Pods_trySwift.framework */;
+			productReference = 190715082406647B6971AF108C8DD2A0 /* Pods_trySwift.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		2C4B25DA191884B406DDFDE48CCFD90A /* AcknowList */ = {
@@ -775,7 +768,7 @@
 			);
 			name = AcknowList;
 			productName = AcknowList;
-			productReference = 8C465AD13CA6CAC449F0371E745352FC /* AcknowList.framework */;
+			productReference = 484A0FCEB1AA30CD09A1B1E5B9D28714 /* AcknowList.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		32A5C9452F825D2A18B1D4558F47D8BE /* Timepiece-iOS */ = {
@@ -792,7 +785,7 @@
 			);
 			name = "Timepiece-iOS";
 			productName = "Timepiece-iOS";
-			productReference = AD39502C2484AF1B0B2237B6BE9913D7 /* Timepiece.framework */;
+			productReference = EB6A865B77890A66F51D0B7BA1B08C97 /* Timepiece.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		3A23F2D6BD392F95ED497EA4D9D7177F /* XLPagerTabStrip-XLPagerTabStrip */ = {
@@ -809,7 +802,7 @@
 			);
 			name = "XLPagerTabStrip-XLPagerTabStrip";
 			productName = "XLPagerTabStrip-XLPagerTabStrip";
-			productReference = 1781453D6A8D1F1069EF3AADF10375FE /* XLPagerTabStrip.bundle */;
+			productReference = C2BA34E0698ADB9B2DF2E4AAB0955C06 /* XLPagerTabStrip.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
 		C64F0FDD564E859332AD6D302CCC004D /* DynamicColor */ = {
@@ -826,7 +819,7 @@
 			);
 			name = DynamicColor;
 			productName = DynamicColor;
-			productReference = 320C9D5DCF4AC84BB64FFBEE2EF555D4 /* DynamicColor.framework */;
+			productReference = 14B10F3CE0ADB351390EDC55DCA0F6F2 /* DynamicColor.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		E3232D4C589D9B3ECDA59333D112FCF5 /* Timepiece-watchOS */ = {
@@ -843,7 +836,7 @@
 			);
 			name = "Timepiece-watchOS";
 			productName = "Timepiece-watchOS";
-			productReference = F9A7C34A24711E2840A52D04A5B8A3AF /* Timepiece.framework */;
+			productReference = 30DA30FDE2AEAF226BDCB90A8FEEA906 /* Timepiece.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		F4E27DAF81FBBCBE3138C7CB285BC836 /* Pods-try Extension */ = {
@@ -861,7 +854,7 @@
 			);
 			name = "Pods-try Extension";
 			productName = "Pods-try Extension";
-			productReference = 732A36BADCAA1FE5E94348ACA8619D95 /* Pods_try_Extension.framework */;
+			productReference = 66B8926B1366C04963F622BF68E3A571 /* Pods_try_Extension.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -881,7 +874,7 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 4AC5C5DD674D14B36632F70D7973BD88 /* Products */;
+			productRefGroup = 7CE564EBDA65EC0780D7D393F7B9CAD3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -1112,7 +1105,7 @@
 				PRODUCT_NAME = XLPagerTabStrip;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0.1;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1162,7 +1155,7 @@
 		};
 		1E0FBFBA060A58B124D905C5257BCCA2 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 30185E2C39789E3210542C08D2ABD183 /* Timepiece-iOS.xcconfig */;
+			baseConfigurationReference = C2CD5DD63536F29855471AA61F52A63A /* Timepiece-iOS.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1186,7 +1179,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0.1;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1292,7 +1285,7 @@
 				PRODUCT_NAME = Toucan;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0.1;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1370,7 +1363,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0.1;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1403,7 +1396,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0.1;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1453,7 +1446,7 @@
 				PRODUCT_NAME = DynamicColor;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0.1;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1462,7 +1455,7 @@
 		};
 		8A1F06A7A3361735F22265ED9C041E3C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8D04DDDB050D44F6C2F84219F7518F95 /* Timepiece-watchOS.xcconfig */;
+			baseConfigurationReference = 75F7D73E289811CFC4D80CAF0890A6DC /* Timepiece-watchOS.xcconfig */;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1485,7 +1478,7 @@
 				PRODUCT_NAME = Timepiece;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0.1;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 4;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1519,7 +1512,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0.1;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1552,7 +1545,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0.1;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1561,7 +1554,7 @@
 		};
 		B134F358CD6319A514ADB3E6E021BFE8 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8D04DDDB050D44F6C2F84219F7518F95 /* Timepiece-watchOS.xcconfig */;
+			baseConfigurationReference = 75F7D73E289811CFC4D80CAF0890A6DC /* Timepiece-watchOS.xcconfig */;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1585,7 +1578,7 @@
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0.1;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 4;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1631,7 +1624,7 @@
 		};
 		D26BA0A811DE6F6C794F8ABEE318801B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 30185E2C39789E3210542C08D2ABD183 /* Timepiece-iOS.xcconfig */;
+			baseConfigurationReference = C2CD5DD63536F29855471AA61F52A63A /* Timepiece-iOS.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1654,7 +1647,7 @@
 				PRODUCT_NAME = Timepiece;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0.1;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1686,7 +1679,7 @@
 				PRODUCT_NAME = AcknowList;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0.1;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";

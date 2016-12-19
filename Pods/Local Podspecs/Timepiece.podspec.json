@@ -1,7 +1,7 @@
 {
   "name": "Timepiece",
-  "version": "0.4.3",
-  "summary": "Intuitive NSDate extensions in Swift",
+  "version": "1.0.1",
+  "summary": "Intuitive date handling in Swift",
   "homepage": "https://github.com/naoty/Timepiece",
   "license": {
     "type": "MIT",
@@ -18,7 +18,7 @@
   },
   "source": {
     "git": "https://github.com/naoty/Timepiece.git",
-    "tag": "0.4.3"
+    "tag": "1.0.1"
   },
   "source_files": "Sources/**/*.swift",
   "requires_arc": true
