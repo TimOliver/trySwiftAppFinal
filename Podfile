@@ -13,6 +13,7 @@ target 'trySwift' do
     pod 'DynamicColor', '~> 3.1.0'
     pod 'AcknowList', '~> 1.2'
     pod 'BuddyBuildSDK'
+    pod 'TrySwiftData', :git => 'https://github.com/tryswift/trySwiftData.git'
 end
 
 target 'try Extension' do
