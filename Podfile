@@ -2,7 +2,7 @@ use_frameworks!
 
 def shared_pods
     pod 'Timepiece', '~> 1.0.1'
-    pod 'RealmSwift', '~> 2.1.1'
+    pod 'RealmSwift', '~> 2.4.2'
 end
 
 target 'trySwift' do

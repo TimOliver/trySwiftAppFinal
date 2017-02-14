@@ -70,7 +70,7 @@ private extension AppDelegate {
     func configureData() {
         let defaults = UserDefaults.standard
         
-        let appSubmitionDate = Date.date(year: 2016, month: 8, day: 16, hour: 5, minute: 0, second: 0)
+        let appSubmitionDate = Date(year: 2016, month: 8, day: 16, hour: 5, minute: 0, second: 0)
         if defaults.object(forKey: ChangeManager.lastChangedDataNotification) == nil {
             defaults.set(appSubmitionDate, forKey: ChangeManager.lastChangedDataNotification)
         }
