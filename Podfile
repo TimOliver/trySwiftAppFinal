@@ -12,6 +12,7 @@ target 'trySwift' do
     pod 'Toucan', '~> 0.6.0'
     pod 'DynamicColor', '~> 3.1.0'
     pod 'AcknowList', '~> 1.2'
+    pod 'BuddyBuildSDK'
 end
 
 target 'try Extension' do

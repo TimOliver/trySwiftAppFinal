@@ -1,5 +1,6 @@
 PODS:
   - AcknowList (1.2)
+  - BuddyBuildSDK (1.0.14)
   - DynamicColor (3.1.0)
   - Realm (2.4.2):
     - Realm/Headers (= 2.4.2)
@@ -12,6 +13,7 @@ PODS:
 
 DEPENDENCIES:
   - AcknowList (~> 1.2)
+  - BuddyBuildSDK
   - DynamicColor (~> 3.1.0)
   - RealmSwift (~> 2.4.2)
   - Timepiece (~> 1.0.1)
@@ -20,6 +22,7 @@ DEPENDENCIES:
 
 SPEC CHECKSUMS:
   AcknowList: 18ccee4d933a153622416cce2d36e6864ec147ea
+  BuddyBuildSDK: 2b2d35a61ad7fd3645beb2d48bc5123efd869918
   DynamicColor: 4dec283a881f7f9d9f3bc88fb5f306724242575f
   Realm: d27b758e12d62a3371879a065d4c40aa212c5a54
   RealmSwift: 9556c0fe0f0cfecacfb755ae9e68ff379fc6bead
@@ -27,6 +30,6 @@ SPEC CHECKSUMS:
   Toucan: 47485bbc9cb4541ef6318d6886103e6eaf16e919
   XLPagerTabStrip: c46e802a8dcac29edbcea573de8fe920e052455b
 
-PODFILE CHECKSUM: 94c43ef1ff9d9af3cf3c600bb29f8c9e87042230
+PODFILE CHECKSUM: c7a817b7bcbc09963b14851c849178b8a96639ea
 
 COCOAPODS: 1.2.0
